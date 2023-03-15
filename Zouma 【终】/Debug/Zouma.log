@@ -1,0 +1,28 @@
+﻿  Zouma.cpp
+D:\C++程序库\Zouma\Zouma.cpp(45,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(50,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(68,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(70,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(75,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(77,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(77,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(122,41): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(146,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(146,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(205,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(244,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(287,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(337,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(376,27): warning C4018: “>=”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(383,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(400,52): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(409,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(448,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(470,57): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Zouma.vcxproj -> D:\C++程序库\Zouma\Debug\Zouma.exe

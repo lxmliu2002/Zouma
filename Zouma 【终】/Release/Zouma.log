@@ -1,0 +1,45 @@
+﻿  Zouma.cpp
+D:\C++程序库\Zouma\Zouma.cpp(45,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(50,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(68,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(70,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(70,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(75,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(77,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(77,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(103,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(122,41): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(146,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(146,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(205,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(244,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(247,36): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(247,36): message : 尝试匹配参数列表“(IMAGE *, const char [12])”时
+D:\C++程序库\Zouma\Zouma.cpp(248,30): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(248,30): message : 尝试匹配参数列表“(IMAGE *, const char [8])”时
+D:\C++程序库\Zouma\Zouma.cpp(249,30): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(249,30): message : 尝试匹配参数列表“(IMAGE *, const char [8])”时
+D:\C++程序库\Zouma\Zouma.cpp(287,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(317,34): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(317,34): message : 尝试匹配参数列表“(IMAGE *, const char [10])”时
+D:\C++程序库\Zouma\Zouma.cpp(337,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(344,33): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(344,33): message : 尝试匹配参数列表“(IMAGE *, const char [10])”时
+D:\C++程序库\Zouma\Zouma.cpp(349,43): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+F:\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\C++程序库\Zouma\Zouma.cpp(349,43): message : 尝试匹配参数列表“(IMAGE *, const char [15])”时
+D:\C++程序库\Zouma\Zouma.cpp(376,27): warning C4018: “>=”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(383,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(400,52): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++程序库\Zouma\Zouma.cpp(409,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(448,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序库\Zouma\Zouma.cpp(470,57): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
